@@ -12,6 +12,7 @@ Contient les implémentations en langage C des fonctions:
 - Calcul de la médiane d’un tableau.
 - Inversion d’un tableau.
 - Produit a × b en utilisant exclusivement +1.
+
 📘 INF 231_EC2 : STRUCTURE DE DONNÉES II – Exercices en C
 👨🏾‍🏫 Enseignant responsable
 PR. Metatagia
