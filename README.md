@@ -5,12 +5,12 @@ l'utilisateur d'effectuer plusieurs operations mathematiques et algorithmiques s
 matrices, via un menu interactif.
 Contient les implémentations en langage C des fonctions:
 - Somme et produit de matrices (avec analyse de complexité)
-- Produit vecteur × matrice
-- Produit vectoriel
-- Recherche séquentielle dans un tableau
-- Vérification si un tableau est trié
-- Calcul de la médiane d’un tableau
-- Inversion d’un tableau
-- Produit a × b en utilisant exclusivement +1
+- Produit vecteur × matrice.
+- Produit vectoriel.
+- Recherche séquentielle dans un tableau.
+- Vérification si un tableau est trié.
+- Calcul de la médiane d’un tableau.
+- Inversion d’un tableau.
+- Produit a × b en utilisant exclusivement +1.
 
 
