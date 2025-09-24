@@ -24,14 +24,14 @@ Chaque programme est autonome et documenté afin de faciliter la compréhension 
 
 📂 Contenu des exercices
 Somme de matrices – Addition de deux matrices de mêmes dimensions.
-Produit de matrices – Produit matriciel classique (n×m avec m×p).
+Produit de matrices – Produit matriciel classique
 Recherche séquentielle dans un tableau – Parcours séquentiel pour rechercher un élément.
 Multiplication a × b avec a,b > 0 en utilisant exclusivement +1 – Simulation par addition répétée.
 Tester si un tableau est trié – Vérification croissante ou décroissante.
 Médiane dans un tableau – Calcul de la médiane après tri.
 Inverser un tableau – Renversement de l’ordre des éléments.
 Produit vectoriel – Implémentation dans R³.
-Produit vecteur × matrice – Multiplication d’un vecteur (1×n) par une matrice (n×m).
+Produit vecteur × matrice – Multiplication d’un vecteur  par une matrice (n×m).
 
 
 
