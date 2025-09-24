@@ -1,5 +1,5 @@
 # TP-collaboration-
-Projet C en Structure de Données II (INF231) 
+## Projet C en Structure de Données II (INF231) 
 Ce programme a été developpé dans le cadre d'un TP de programmation en Langage C. Il permet à
 l'utilisateur d'effectuer plusieurs opérations mathematiques et algorithmiques sur des tableaux et
 matrices, via un menu interactif.
