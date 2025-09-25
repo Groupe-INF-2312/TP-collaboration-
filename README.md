@@ -1,5 +1,5 @@
 
-# 📚 INF231 – Structures de Données II (CMT - Groupe TP)
+# 📚 INF231 – Structures de Données II (Groupe TP)
 
 This repository contains 9 C programs developed as part of the course **INF231_EC2: Structure de Données II**.  
 Each program corresponds to one exercise on arrays, matrices, and vectors, with complexity analysis.
